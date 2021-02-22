@@ -1,3 +1,3 @@
 # Papers (Self-Supervised Learning)
-## NLP
-### Contrastive Learning
+## 1. NLP
+### 1.1 Contrastive Learning
