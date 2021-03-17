@@ -32,4 +32,4 @@
 
 ## Pre-training
 * 2020
-  * [M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://arxiv.org/abs/2006.02635)[[code]](https://github.com/microsoft/M3P)
+  * [M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://arxiv.org/abs/2006.02635) [[code]](https://github.com/microsoft/M3P)
