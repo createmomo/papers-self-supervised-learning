@@ -29,3 +29,7 @@
   * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297) [[code]](https://github.com/facebookresearch/moco)
 * 2019
   * [MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
+
+## Pre-training
+* 2020
+  * [M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://arxiv.org/abs/2006.02635)[[code]](https://github.com/microsoft/M3P)
